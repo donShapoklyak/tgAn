@@ -1,2 +1,2 @@
-TOKEN = '1234567890:AaBbCcDdEe'  # Получи у бот фазер
-ADMIN_ID = '0000000'  # Твой id в тг
+TOKEN = '7489941968:AAHdKk0hlJntjn8w00bQyvADB20BqnqMQ9Q'  # Получи у бот фазер
+ADMIN_ID = '7348145500'  # Твой id в тг
